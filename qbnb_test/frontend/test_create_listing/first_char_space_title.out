@@ -1,0 +1,14 @@
+Welcome. Please type 1 to login. Or type 2 register. Or type 3 to exit: 
+Please input email or 3 to exit: Please input password: Please input the password again: Please input username: registration succeeded
+welcome Username3
+
+Homepage
+------------- 
+Please select:
+1 - Update User
+2 - Create listing
+3 - Update listing
+4 - log out
+
+enter selection: enter title of listing: please create a description: enter address of listing: enter the price of listing: Listing title must be alphanumeric without spaces at                        suffix or prefix
+enter anything to try again or 3 to exit
